@@ -1,0 +1,7 @@
+Admin Login Details
+
+http://localhost/event/admin
+
+Login Email : ctk2@gmail.com
+
+password : 123456@
